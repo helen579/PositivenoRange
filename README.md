@@ -1,2 +1,8 @@
 # PositivenoRange
-Python program to print all positive numbers in a range.
+Query: Write a python program to print all positive numbers in a range.
+
+Input and output must look something like this:
+
+Input: list1 = [12, -7, 5, 64, -14]  Output: 12, 5, 64
+
+Input: list2 = [12, 14, -95, 3] Output: 12, 14, 3
